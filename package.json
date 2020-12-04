@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
+    "now-build": "next build",
     "build": "next build",
     "start": "next start",
     "export": "next build && next export"
@@ -34,5 +35,4 @@
     "sass-loader": "^7.1.0",
     "slicknav": "^1.0.8"
   }
-
 }
